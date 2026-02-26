@@ -1,5 +1,5 @@
-﻿import React, { useState } from 'react';
-import { useNavigate, Link } from 'react-router-dom';
+﻿import { useNavigate, Link } from 'react-router-dom';
+import { useState } from 'react';
 import { useAuth } from '../hooks/useAuth';
 import { useRealtimeDB } from '../hooks/useRealtimeDB';
 import { Zap, Mail, Lock, AlertCircle, Eye, EyeOff, User, Phone, CreditCard, Briefcase } from 'lucide-react';

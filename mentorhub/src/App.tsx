@@ -7,7 +7,7 @@ import MentorSignup from './pages/MentorSignup';
 import './App.css';
 
 function App() {
-    const { user, loading } = useAuth();
+    const { loading } = useAuth();
 
     if (loading) {
         return (
