@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36811.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "mentorhub", "Mentorhub\mentorhub.esproj", "{2FC2975B-EBCA-D981-F303-0A9A02652540}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FC2975B-EBCA-D981-F303-0A9A02652540}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FC2975B-EBCA-D981-F303-0A9A02652540}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FC2975B-EBCA-D981-F303-0A9A02652540}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2FC2975B-EBCA-D981-F303-0A9A02652540}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FC2975B-EBCA-D981-F303-0A9A02652540}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FC2975B-EBCA-D981-F303-0A9A02652540}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB1FFA40-7048-44A7-A82A-C4B0628639C7}
+	EndGlobalSection
+EndGlobal
